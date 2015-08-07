@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Twitter as Literature?!?
+author:
+  display_name: Angela Hontau
+  login: torchwood909
+  email: angelahontau@gmail.com
+  url: ''
+author_login: torchwood909
+author_email: angelahontau@gmail.com
+wordpress_id: 133
+wordpress_url: http://theonj.com/?p=133
+date: '2012-01-27 08:12:35 -0500'
+date_gmt: '2012-01-27 08:12:35 -0500'
+categories:
+- Technology Articles
+- Social Issues Articles
+tags:
+- Technology
+- Social Issues
+---
+<p>Could Nostradamus be right about the approaching end of the world?  No likely but  maybe just the end of reason? Twitter as history, why not? But Twitter as Literature, never!  This means war.  But a war against stupidity is just about as easy to win as the war against drugs.  </p>
+<p>Throughout the entire history of mankind, I have not yet found any effective weapons against idiocracy.  We now have the ability to nuke the entire planet, but obstructing devolution is still a mystery.  </p>
+<p>Nevertheless, literature must be protected, even if we have to hire some highly skilled hackers to bring down Twitter. Oh wait, there’s no need for that.  Twitter seems to fail all on its own, at regular intervals, and I hear that the web site is currently unprofitable and seeking government bailouts.  Though the government’s IQ is no higher and Twitter might actually get bailed out, I still think I might have taken all this a bit too seriously.  Or have I?  After all, it’s in the NEWS, which means it must be true.  The Library of Congress is seriously considering posting the Twits of Ashton Kutcher.  God save us all!</p>
