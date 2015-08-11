@@ -17,14 +17,4 @@ date_gmt: '2012-01-18 21:20:31 -0500'
 categories: []
 tags: []
 ---
-<style type="text/css">
-<p>    a{<br />
-       color:#00FFC0;<br />
-       -webkit-transition:color 2s ease-in;<br />
-    }<br />
-    a:hover{color:#fd090;}<br />
-}<br />
-</style>
-<p><a href="http://www.linkedin.com/in/angih"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Angela Hontau's profile on LinkedIn"></a><br />
-<br />
-[contact-form-7 id="4" title="Contact form 1"]</p>
+Please email me at angelahontau at gmail dot com

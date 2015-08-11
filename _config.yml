@@ -1,7 +1,7 @@
 # Site settings
 title: The Onj: Software Consulting
 email: angelahontau@gmail.com
-description: >
+description: |
   Software consulting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://theonj.com" # the base hostname & protocol for your site
