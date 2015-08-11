@@ -1,6 +1,6 @@
 # Site settings
-title: The Onj: Software Consulting
-email: angelahontau@gmail.com
+title: "The Onj: Software Consulting"
+email: "angelahontau@gmail.com"
 description: |
   Software consulting.
 baseurl: "" # the subpath of your site, e.g. /blog
