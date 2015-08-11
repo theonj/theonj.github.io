@@ -17,5 +17,5 @@ date_gmt: '2012-01-19 04:17:24 -0500'
 categories: []
 tags: []
 ---
-<p><a href="http://theonj.com/wp-content/uploads/2012/01/ResumeAngela2014.docx">My resume in Word format</a></p>
-<p><a href="http://theonj.com/wp-content/uploads/2012/01/ResumeAngela2015.pdf">My Resume in PDF format</a><br /></p>
+<p><a href="/resume/ResumeAngela2015.docx">My resume in Word format</a></p>
+<p><a href="/resume/ResumeAngela2015.pdf">My Resume in PDF format</a><br /></p>
