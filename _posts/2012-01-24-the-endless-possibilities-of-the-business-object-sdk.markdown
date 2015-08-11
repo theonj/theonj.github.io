@@ -27,4 +27,8 @@ tags:
 <p>While creating a report in Crystal Reports, users might run into problems that cannot be solved without a change to the web application. A report with a high number of parameters, for instance, while easily developed in Crystal Reports, would pose problems once deployed on the web for those users who have to enter the data in each parameter, each time they start the report. There are several solutions to this problem but they all require the use of the SDK. The dynamic parameters mentioned above would limit the data entry. Stopping the users from scheduling the report without setting the parameters first would eliminate null or undefined parameter values (data validation). </p>
 <p>The SDK’s compiled help file (.chm) can teach programmers to perform such complex tasks by simply following its hierarchical framework. In other words, since everything is organized under headings and tabs, and every object is connected to its methods, properties and parent objects, the SDK is quite easy to navigate. These clear and concise instructions are packed with examples and sample code to facilitate understanding of complex applications. </p>
 <p>Written by Angela Hontau, Data Management Group Consultant<br />
-Published online: http://www.datamanagementgroup.com/resources/articles/Article_EndlessPossibilitiesOfTheBusinessObjectsSDK.asp</p>
+Published online:
+<pre>
+http://www.datamanagementgroup.com/resources/articles/Article_EndlessPossibilitiesOfTheBusinessObjectsSDK.asp
+</pre>
+</p>
