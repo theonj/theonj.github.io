@@ -17,15 +17,6 @@ date_gmt: '2012-04-28 14:51:18 -0400'
 categories: []
 tags: []
 ---
-<style>
-    <!--<br />
-    a{<br />
-       color:#E6B800;<br />
-       -webkit-transition:color 2s ease-in;<br />
-    }<br />
-    a:hover{color:#6F000;}<br />
-    --><br />
-   </style>
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
 <tbody>
 <tr>
