@@ -20,8 +20,6 @@ tags:
 - Business
 ---
 <p style="text-align: center;">
-<p><a href="http://online.wsj.com/article/SB10001424053111904060604576570574190457198.html" target = "blank"><br />
-<img src="http://theonj.com/wp-content/uploads/2012/01/office-politics2.jpg" alt="" title="Office Politics" width="640" height="343" class="aligncenter size-full wp-image-1022" /></a></p>
 <p>While reading an article in the Wall Street Journal called <a href="http://online.wsj.com/article/SB10001424053111904060604576570574190457198.html">Don’t Dismiss Office Politics—Teach It</a>, I begun thinking about my own and others’ experiences with this subject. The article focuses on executives, but the role of office politics in non-executive jobs is just as critical.</p>
 <p>Most office politics are counterproductive.</p>
 <p>Overall, politics are just a means of establishing and assessing a hierarchy scale. In an office, however, productivity should trump personalities and ego gratifications.</p>
