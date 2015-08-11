@@ -1,0 +1,68 @@
+.site-footer, .page-content, .home {
+    text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+    .page-content, .post-content {
+        width: 75%;
+    }
+}
+
+.page-content, .post-content {
+    margin: 0 auto;
+}
+
+.blog, .about {
+    text-align: left;
+}
+
+.rss-subscribe {
+    text-align: center;
+}
+
+.post {
+    margin: 0 auto 60px 0;
+    text-align: left;
+}
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+p {
+    font-size: 14pt;
+    justify-content: flex-end;
+}
+
+h2 {
+    font-size: 18pt;
+    border-bottom: 2px solid #f15a23
+}
+
+a {
+    text-decoration: none;
+    color: #777;
+}
+
+.post-title {
+    padding: 0 !important;
+    text-align: center;
+}
+
+.page-header, .post-header {
+    text-align: center;
+}
+
+.post-contents {
+    text-align: left;
+}
+
+#slidy-container {
+    width: 640px;
+    height: 520px;
+    margin: 0 auto;
+}
+
+.site-footer {
+    margin-top: 10px;
+}
